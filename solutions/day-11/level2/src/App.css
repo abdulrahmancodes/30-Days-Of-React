@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App div {
+  position: absolute;
+  background: aqua;
+  width: 300px;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: black;
+  text-shadow: 2px 2px  pink;
+}
